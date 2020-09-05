@@ -1,7 +1,7 @@
 package com.bailiny.singleton;
 
 /**
- * 懒汉式-静态常量
+ * 饿汉式-静态常量
  */
 public class SingletonTest2 {
 
