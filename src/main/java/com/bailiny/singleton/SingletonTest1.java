@@ -12,7 +12,7 @@ public class SingletonTest1 {
 
     }
 
-    public static SingletonTest1  getInstance() {
+    public static SingletonTest1 getInstance() {
         return instance;
     }
 }
